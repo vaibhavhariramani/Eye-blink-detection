@@ -22,7 +22,7 @@ wget http://dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2
  ## **Commands to run the detection:**
  ```
 $ python detect_blinks.py --shape-predictor shape_predictor_68_face_landmarks.dat --image images/example_01.jpg
-
+ ```
 ## **Results:**
 The results are awesome. We can see pretty accurate Eye Blink detections.
 
