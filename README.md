@@ -26,7 +26,7 @@ $ python detect_blinks.py --shape-predictor shape_predictor_68_face_landmarks.da
 ## **Results:**
 The results are awesome. We can see pretty accurate Eye Blink detections.
 
-![final_video_screencap](https://github.com/vaibhavhariaramani/hog--svm-vehicle-detector-and-Object-Detection/blob/master/images/final_bounding_boxes.png)
+![final_video_screencap](https://github.com/vaibhavhariaramani/Eye-blink-detection/blob/master/eye%20blink.jpeg)
 
 [Click here to watch the final video](https://youtu.be/YpYyPmpBJNU) with bounding boxes drawn around eyes.
 
